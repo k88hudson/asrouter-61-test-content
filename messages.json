@@ -1,0 +1,54 @@
+{
+  "messages": [
+    {
+      "id": "7864",
+      "content": {
+        "text": "Did you know that our support team is available to help you with any questions you have related to Firefox?",
+        "button_url": "https://support.mozilla.org/en-US/?utm_source=desktop-snippet&utm_medium=snippet&utm_campaign=as_router_61exp_1&utm_term=7864&utm_content=rel",
+        "button_label": "Learn More.",
+        "button_type": "anchor",
+        "icon": "moz-m-black-42x42.png"
+      }
+    },
+    {
+      "id": "7899",
+      "text": "Use the CMD (CTRL) + T keyboard shortcut to",
+      "content": {
+        "button_url": "https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?utm_source=desktop-snippet&utm_medium=snippet&utm_campaign=as_router_61exp_2&utm_term=7899&utm_content=rel#w_windows-tabs",
+        "button_label": "open a new tab quickly!",
+        "button_type": "anchor",
+        "icon": "keyboard-gray-42x42.svg"
+      }
+    },
+    {
+      "id": "7943",
+      "content": {
+        "text": "What’s the Wi-Fi? Stay safe the next time you connect to free public networks with",
+        "button_url": "https://advocacy.mozilla.org/en-US/safety/public-wifi?utm_source=desktop-snippet&utm_medium=snippet&utm_campaign=as_router_61exp_3&utm_term=7943&utm_content=rel",
+        "button_label": "these simple steps.",
+        "button_type": "anchor",
+        "icon": "safety-exclamation-purple-42x42.svg"
+      }
+    },
+    {
+      "id": "7949",
+      "content": {
+        "text": "Your browser is ready for a makeover. Don’t worry, you’ve got tons of options.",
+        "button_url": "https://addons.mozilla.org/en-US/firefox/themes/?utm_source=desktop-snippet&utm_medium=snippet&utm_campaign=as_router_61exp_4&utm_term=7949&utm_content=rel",
+        "button_label": "Check them out here.",
+        "button_type": "anchor",
+        "icon": "mirror-sparkle-yellow-blue-42x42.svg"
+      }
+    },
+    {
+      "id": "7952",
+      "content": {
+        "text": "A healthy you is happy and spritely.",
+        "button_url": "https://www.mozilla.org/en-US/internet-health/privacy-security/?utm_source=desktop-snippet&utm_medium=snippet&utm_campaign=as_router_61exp_5&utm_term=7952&utm_content=rel",
+        "button_label": "A healthy Internet is secure and private",
+        "button_type": "anchor",
+        "icon": "privacy-heart-purple-42x42.svg"
+      }
+    }
+  ]
+}
