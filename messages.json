@@ -12,8 +12,8 @@
     },
     {
       "id": "7899",
-      "text": "Use the CMD (CTRL) + T keyboard shortcut to",
       "content": {
+        "text": "Use the CMD (CTRL) + T keyboard shortcut to",
         "button_url": "https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?utm_source=desktop-snippet&utm_medium=snippet&utm_campaign=as_router_61exp_2&utm_term=7899&utm_content=rel#w_windows-tabs",
         "button_label": "open a new tab quickly!",
         "button_type": "anchor",
